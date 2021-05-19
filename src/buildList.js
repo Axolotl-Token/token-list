@@ -16,8 +16,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["kishuswap", "default"],
+    logoURI: "ipfs://QmRYpYpviWe2wb4D4u3rcawA1v1tvG7jqaFF4QfDDV8HjP",
+    keywords: ["axolotl", "default"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
