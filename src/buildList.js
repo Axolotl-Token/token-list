@@ -8,7 +8,7 @@ const kovan = require("./tokens/kovan.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default List",
+    name: "Axolotl Finance Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
