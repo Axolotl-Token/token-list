@@ -1,6 +1,5 @@
 # @Axolotl-Token/token-list
 
-[![Tests](https://github.com/Axolotl-Token/token-lists/workflows/Tests/badge.svg)](https://github.com/Axolotl-Token/token-list/actions?query=workflow%3ATests)
 
 This NPM module and GitHub repo contains the default token list used in the Axolotl Finance interface.
 
