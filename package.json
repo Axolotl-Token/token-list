@@ -1,5 +1,5 @@
 {
-  "name": "@Axolotl-Token/token-list",
+  "name": "@axolotl-token/token-list",
   "version": "1.0.0",
   "description": "◦ The Axolotl Finance default token list",
   "main": "build/axolotl-default.tokenlist.json",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Axolotl-Token/token-list.git"
   },
   "keywords": [
     "axolotl",
