@@ -7,6 +7,14 @@
     "chainId": 42,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   },
+   {
+    "name": "Axolotl",
+    "address": "0xD531477D16079eD6fB30fe2c9107c9bF378D4de0",
+    "symbol": "AXOL",
+    "decimals": 9,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Axolotl-Token/token-list/master/src/icon.png"
+  },
   {
     "name": "Dai Stablecoin",
     "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
