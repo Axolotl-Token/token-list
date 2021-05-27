@@ -12,7 +12,7 @@
     "address": "0xD531477D16079eD6fB30fe2c9107c9bF378D4de0",
     "symbol": "AXOL",
     "decimals": 9,
-    "chainId": 1,
+    "chainId": 42,
     "logoURI": "https://raw.githubusercontent.com/Axolotl-Token/token-list/master/src/icon.png"
   },
   {
