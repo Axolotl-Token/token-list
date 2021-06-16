@@ -7,6 +7,14 @@
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
+  {
+    "name": "Axolotl",
+    "address": "0x8b8c48a7900b423115d74fe04ff2545944f3a4ec",
+    "symbol": "AXOL",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Axolotl-Token/token-list/master/src/icon.png"
+  },
     {
       "name": "Bakery Token",
       "symbol": "BAKE",
@@ -31,14 +39,6 @@
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
-  {
-    "name": "Axolotl",
-    "address": "0xCae93FbbdbC389fb459F8825eF9ff30C3f9fFeF2",
-    "symbol": "AXOL",
-    "decimals": 9,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Axolotl-Token/token-list/master/src/icon.png"
-  },
   {
       "name": "BTCB Token",
       "symbol": "BTCB",
